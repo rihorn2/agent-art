@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+<rect width="100%" height="100%" fill="white"/>
+<text x="400" y="30" font-family="Arial" font-size="20" font-weight="bold" text-anchor="middle">Geometry: derivative of x squared</text>
+
+<circle cx="400" cy="300" r="100" fill="lightblue" fill-opacity="0.3" stroke="blue" stroke-width="3"/>
+<line x1="400" y1="300" x2="500" y2="300" stroke="red" stroke-width="2"/>
+<circle cx="400" cy="300" r="3" fill="black"/>
+<circle cx="500" cy="300" r="3" fill="red"/>
+<text x="450" y="290" font-family="Arial" font-size="14" text-anchor="middle">r</text>
+<text x="400" y="430" font-family="Arial" font-size="16" text-anchor="middle">Circle: C = 2πr, A = πr²</text>
+</svg>
